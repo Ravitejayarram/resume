@@ -8,7 +8,7 @@
 - Create marketing strategies using PPC (Adwords/Facebook Ads) and inbound marketing
 
 ### **Full Stack Developer** @ Beved *(Jan 2013 - Dec 2014)*
-- Coded a new brand responsive user interface using HTML5, CSS3 and Javascript
+- Coded a brand new responsive user interface using HTML5, CSS3 and Javascript
 - Developed new features using Ruby on Rails and PostgreSQL
 - Led a team of 2 remote programmers to create a new B2B product
 - Migrated all infraestructure from Heroku to AWS using Nginx as reverse proxy, Puma server on EC2 instances and PostgreSQL on RDS
