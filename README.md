@@ -16,7 +16,7 @@
 ### **Frontend Developer/UX Designer** @ Serpro *(Feb 2006 - Dec 2012)*
 - Applied heuristic evaluation on the redesign of a Java desktop software used by +20 mi Brazilians to declare their income to the federal government.
 - Led and trained a team of 15 designers in order to them create interactive online courses using HTML, CSS and Javascript instead of Adobe Flash.
-- Coded +20 government websites using w3c web patterns and integrated them with a CMS written in Python called Plone.
+- Coded +20 government websites using w3c web patterns and integrated them with a CMS written in Python called Plone
 - Led a frontend team in a project to create reusable web components used across the entire company
 
 ### **Web Developer** @ Webaula *(Oct 2006 - May 2007 Part-time)*
