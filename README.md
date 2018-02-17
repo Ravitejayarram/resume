@@ -1,4 +1,4 @@
-# Harlley Oliveira (Full Stack Developer ❤ UX Design)
+# Harlley Oliveira - Full Stack Developer (Remote Only)
 ## Experience
 
 ### **Founder and Teacher** @ Playcode *(Jan 2015 - Present)*
