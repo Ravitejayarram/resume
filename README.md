@@ -1,4 +1,4 @@
-# Harlley Oliveira - Full Stack Developer (Remote Only)
+# Harlley Oliveira - Full Stack Developer
 ## Experience
 
 ### **Founder and Teacher** @ Playcode *(Jan 2015 - Present)*
