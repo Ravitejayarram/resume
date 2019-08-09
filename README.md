@@ -1,12 +1,12 @@
 # Harlley Oliveira - Full Stack Developer
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque
+I started my career in 2002 as an Intern. I developed new features on a web application using HTML, CSS, Javascript, ASP 3.0 and SQL Server for an IBM partner in Brazil. After that I worked in a software house, developing many diferente web applications using technologies as HTML, CSS, Javascript, ASP.net, C#, SQL Server and PHP for a big telecommunication company. Also worked for 6 years in the biggest governmental software company in Latin America, developing several graphical interfaces for web sites and web applications using HTML, CSS, Javascript and jQuery. I additionally was co-founder and CTO in an Edutech Startup in Brazil, using HTML, CSS, Javascript, jQuery, Backbone, Ruby on Rails and PostgreSQL to develop an educational web platform, leading remotely a team of 2 developers. I’m currently assigned as a self-employed senior software engineer, developing software for companies in the United States and Portugal using technologies as HTML, CSS, Javascript, Vue.js, Node.js, Ruby on Rails, PHP, and Laravel.
 
 ## Experience
 
 ### **Senior Software Engineer, Remote**
-#### Self-employed `Jan 2015 - Present`
+#### Independent Contractor `Jan 2015 - Present`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque
+In the last years I have been working remotely in a lot of different web projects, with completely different scopes and sizes in mind. I've been working with things like:
 
 ##### Webhouse `(Digital Agency)` `Portugal`
 - [ ] Develop weekly video lessons
