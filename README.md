@@ -8,17 +8,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis di
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque
 
-- **Webhouse** (Digital Agency) `Portugal`
+#### Webhouse (Digital Agency) `Portugal`
 - [ ] Develop weekly video lessons
 - [ ] Mentor computer science students to prepare them to enter the market
 - [ ] Create marketing strategies using PPC (Adwords/Facebook Ads) and inbound marketing
 
-- **Paycertify** (Fintech Startup) `United States`
+#### Paycertify (Fintech Startup) `United States`
 - [x] Develop weekly video lessons
 - [x] Mentor computer science students to prepare them to enter the market
 - [x] Create marketing strategies using PPC (Adwords/Facebook Ads) and inbound marketing
 
-#### Playcode (United States)
+#### Playcode (My Edutech Startup) `Brazil`
 - [x] Develop weekly video lessons
 - [x] Mentor computer science students to prepare them to enter the market
 - [x] Create marketing strategies using PPC (Adwords/Facebook Ads) and inbound marketing
