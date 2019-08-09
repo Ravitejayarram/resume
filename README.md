@@ -1,4 +1,4 @@
-# Harlley Oliveira - Senior Full Stack Developer
+# Harlley Oliveira - Senior Full Stack Developer harlley@gmail.com
 I started my career in 2002 as an Intern, developing new features on a web application using HTML, CSS, Javascript, ASP 3.0, and SQL Server for an IBM partner in Brazil. After that, I worked in a software house, developing many different web applications using technologies like HTML, CSS, Javascript, ASP.net, C#, SQL Server, and PHP for a big telecommunication company. Also worked for six years in the biggest governmental software company in Latin America, developing several graphical interfaces for web sites and web applications using HTML, CSS, Javascript, and jQuery. I additionally was co-founder and CTO in an Edutech Startup in Brazil. There I used HTML, CSS, Javascript, jQuery, Backbone, Ruby on Rails and PostgreSQL to develop an educational web platform, leading a team of 2 developers remotely. I’m currently working as a freelancer Full Stack Software Engineer, developing software for companies in the United States and Portugal using technologies like HTML, CSS, Javascript, Vue.js, Node.js, Ruby on Rails, PHP, and Laravel.
 
 ## Experience
