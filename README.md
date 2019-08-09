@@ -12,17 +12,17 @@ In the last years, I have been working remotely in a lot of different web projec
 - [ ] Transform static design mockups in fully functional web interfaces using HTML5, CSS, Javascript ES6, Vue.js, and Tailwind CSS framework.
 - [ ] Develop backend code that supports the online operation of small companies in Portugal using PHP, Laravel, and MySQL.
 
-##### Playcode `(My Online Training Business)` `Brazil`
-
-- [ ] Prepare and produce video lessons to paid courses and a Youtube channel with more than 60k subscribers. 
-- [ ] Create marketing strategies using PPC and inbound marketing to sell the courses.
-- [ ] Mentor computer science students to prepare them to enter the market.
-
 ##### Paycertify `(Fintech Startup)` `United States`
 - [x] Developed new features (frontend and backend) using Ruby on Rails framework and PostgreSQL database in a remote scrum team using tools like Slack, Jira, Github, and Jenkins.
 - [x] Wrote automated unit tests (TDD) using Rspec and factory_bot
 - [x] Participated in sprint planning meetings and daily meetings
 - [x] Did code review of pull requests from teammates
+
+##### Playcode `(My Online Training Business)` 
+
+- [ ] Prepare and produce video lessons to paid courses and a Youtube channel with more than 60k subscribers. 
+- [ ] Create marketing strategies using PPC and inbound marketing to sell the courses.
+- [ ] Mentor computer science students to prepare them to start int the tech market.
 
 ### **Full Stack Developer, Senior**
 #### Beved `(Edutech Startup)` `Jan 2013 - Dec 2014`
@@ -59,4 +59,4 @@ In the last years, I have been working remotely in a lot of different web projec
 - [x] Interaction Design (UX) Postgraduate Degree 
 
 ### Fabrai `2002 - 2005`
-- [x] Data Processing Degree 
+- [x] Technology in Data Processing Degree 
