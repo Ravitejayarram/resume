@@ -1,13 +1,12 @@
 # Harlley Oliveira - Full Stack Developer
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque
 
 ## Experience
 
-### ** Senior Software Engineer, Remote**
+### **Senior Software Engineer, Remote**
 - **Self-employed** `Jan 2015 - Present`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia mattis diam ac maximus. Etiam dapibus semper mollis. Etiam quis dolor massa. In pulvinar orci sed tellus pellentesque
 
 - **Webhouse** (Digital Agency) `Portugal`
 - [ ] Develop weekly video lessons
