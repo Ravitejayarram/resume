@@ -1,4 +1,4 @@
-# Harlley Oliveira - Software Developer | harlley+cv@gmail.com
+# Harlley Oliveira - Frontend Engineer | harlley+cv@gmail.com
 
 I started my career in 2002 as an Intern, developing new features on a web application using HTML, CSS, Javascript, ASP 3.0, and SQL Server for an IBM partner in Brazil. After that, I worked in a software house, developing many different web applications using technologies like HTML, CSS, Javascript, ASP.net, C#, SQL Server, and PHP for a big telecommunication company. 
 
@@ -6,7 +6,7 @@ I also worked for six years in the biggest governmental software company in Lati
 
 I additionally was co-founder and CTO in an Edutech Startup in Brazil. In that company I used HTML, CSS, Javascript, jQuery, Backbone, Ruby on Rails and PostgreSQL to develop an educational web platform, leading a team of 2 developers remotely. 
 
-I am currently looking for frontend remote jobs in companies that have projects coded with React.
+I am currently looking for frontend remote jobs in companies that have software interface coded with React.
 
 ## Experience
 
@@ -21,7 +21,7 @@ In the last months, I have been working remotely in a lot of different web proje
 
 
 ##### Kolibrie Next `(Hospitality Agency)` `Netherlands`
-- [x] I coded new features on the jamstack marketing website connected to Contentful CMS (HTML, CSS, Javascript, React and Gatsby)
+- [x] I coded new features on the JAMStack marketing website connected to Contentful CMS (HTML, CSS, Javascript, React and Gatsby)
 - [x] I developed new features (frontend and backend) using Ruby on Rails, PostgreSQL and GraphQL in a remote scrum team using tools like Slack, Jira and Github.
 - [x] I wrote automated unit tests (TDD) using Rspec and factory_bot
 - [x] I participated in sprint planning meetings and daily meetings
