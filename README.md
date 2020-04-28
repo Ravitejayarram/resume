@@ -23,9 +23,6 @@ In the last months, I have been working remotely in a lot of different web proje
 ##### Kolibrie Next `(Hospitality Agency)` `Netherlands`
 - [x] I coded new features on the JAMStack marketing website connected to Contentful CMS (HTML, CSS, Javascript, React and Gatsby)
 - [x] I developed new features (frontend and backend) using Ruby on Rails, PostgreSQL and GraphQL in a remote scrum team using tools like Slack, Jira and Github.
-- [x] I wrote automated unit tests (TDD) using Rspec and factory_bot
-- [x] I participated in sprint planning meetings and daily meetings
-- [x] I reviewed pull requests from teammates
 
 
 ##### Paycertify `(Fintech Startup)` `United States`
