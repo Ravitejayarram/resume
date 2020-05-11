@@ -1,4 +1,4 @@
-# Harlley Oliveira - Frontend Engineer | harlley+cv@gmail.com
+# Harlley Oliveira - Software Developer | harlley+cv@gmail.com
 
 I started my career in 2002 as an Intern, developing new features on a web application using HTML, CSS, Javascript, ASP 3.0, and SQL Server for an IBM partner in Brazil. After that, I worked in a software house, developing many different web applications using technologies like HTML, CSS, Javascript, ASP.net, C#, SQL Server, and PHP for a big telecommunication company. 
 
@@ -6,30 +6,28 @@ I also worked for six years in the biggest governmental software company in Lati
 
 I additionally was co-founder and CTO in an Edutech Startup in Brazil. In that company I used HTML, CSS, Javascript, jQuery, Backbone, Ruby on Rails and PostgreSQL to develop an educational web platform, leading a team of 2 developers remotely. 
 
-I am currently looking for frontend remote jobs in companies that have software interface coded with React.
+In the last months, I have been working remotely in a lot of different web projects, with entirely different scopes and sizes. 
 
 ## Experience
 
 ### **Software Engineer, Remote**
 #### Independent Contractor `Jan 2019 - Present`
 
-In the last months, I have been working remotely in a lot of different web projects, with entirely different scopes and sizes. I've been working with projects like:
-
-##### Webhouse `(Digital Agency)` `Portugal`
-- [ ] I transform static design mockups in fully functional web interfaces using HTML5, CSS, Javascript ES6, React and Tailwind CSS framework.
-- [ ] I develop backend code that supports the online operation of small companies in Portugal using PHP, Laravel, and MySQL.
-
+Those are the main projects I worked as a independent contractor in the last months:
 
 ##### Kolibrie Next `(Hospitality Agency)` `Netherlands`
 - [x] I coded new features on the JAMStack marketing website connected to Contentful CMS (HTML, CSS, Javascript, React and Gatsby)
 - [x] I developed new features (frontend and backend) using Ruby on Rails, PostgreSQL and GraphQL in a remote scrum team using tools like Slack, Jira and Github.
-
 
 ##### Paycertify `(Fintech Startup)` `United States`
 - [x] I developed new features (frontend and backend) using Ruby on Rails framework and PostgreSQL database in a remote scrum team using tools like Slack, Jira, Github, and Jenkins.
 - [x] I wrote automated unit tests (TDD) using Rspec and factory_bot
 - [x] I participated in sprint planning meetings and daily meetings
 - [x] I reviewed pull requests from teammates
+
+##### Webhouse `(Digital Agency)` `Portugal`
+- [x] I transformed static design mockups in fully functional web interfaces using HTML5, CSS, Javascript ES6 and Vue JS.
+- [x] I develop backend code that supports the online operation of small companies in Portugal using PHP, Laravel, and MySQL.
 
 
 ### **Founder**
